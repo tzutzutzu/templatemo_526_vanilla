@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+}
+h1{
+	font-family: "Times New Roman";
+	color:pink;
+	text-align: center;
+	font-size: 45px;
+}
+p{
+	font-family: "Times New Roman","Times","serif";
+	font-weight: bold;
+	font-size: 25px;
+	color:pink;
+	background-color: gray;
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-right:30% ;
+	margin-left:30% ;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+h2{
+	text-align: center;font-size: 25px; color:pink;font-family: "Times"
+}
